@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii471/js-array5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Serhii471/js-array5/issues"
+  },
+  "homepage": "https://github.com/Serhii471/js-array5#readme"
 }
